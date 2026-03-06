@@ -8,7 +8,7 @@ BSCS student passionate about DSA and software engineering.
 - **Tools**: GitHub
 
 ## 📊 GitHub Stats
-<!-- -->![Stats](https://github-readme-stats.vercel.app/api?username=mukarma1&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
+[Stats](https://github-readme-stats.vercel.app/api?username=mukarma1&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
 
 
 ## 🔥 Currently Learning
