@@ -8,7 +8,8 @@ BSCS student passionate about DSA and software engineering. Grinding LeetCode da
 - **Tools**: GitHub
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mukarma1&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mukarma1&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
+
 
 ## 🔥 Currently Learning
 - Advanced DSA for Big Tech Interviews
