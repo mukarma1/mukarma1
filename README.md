@@ -3,7 +3,7 @@
 BSCS student passionate about DSA and software engineering. 
 
 ## 🛠️ Skills
-- **Languages**: C++ (DSA focus), Java(basics), C#, Python (basics)
+- **Languages**: C++, C#, (DSA focus), Java(basics), Python (basics)
 - **DSA**: Arrays, Trees, Graphs, DP (in progress)
 - **Tools**: GitHub
 
@@ -13,22 +13,9 @@ BSCS student passionate about DSA and software engineering.
 
 ## 🔥 Currently Learning
 - Advanced DSA for Big Tech Interviews
+- Trying to solve any kind of C++ problems
 - Building small Projects
 
 Let's connect! Open to collaborations & advice.
 
 
-<!--
-**mukarma1/mukarma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
