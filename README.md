@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-<img src="./hero-illustration.svg" width="600" alt="Girl coding illustration"/>
 
 </div>
 
