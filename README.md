@@ -77,12 +77,6 @@ Currently exploring **Node.js/Express backends**, **MongoDB & MySQL**, and integ
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukarma1&theme=radical" alt="Profile Summary"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=mukarma1&theme=radical&hide_border=true&background=1a1721&ring=f472b6&fire=f472b6&currStreakNum=ffffff&sideNums=f7c6de&dates=f7c6de&border=f472b6" alt="GitHub Streak Stats"/>
@@ -153,7 +147,7 @@ Modern Alumni Management System with alumni registration, profile management, da
 
 <br/>
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
 
