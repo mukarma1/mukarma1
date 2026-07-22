@@ -145,22 +145,6 @@ Modern Alumni Management System with alumni registration, profile management, da
 
 </div>
 
-<br/>
-
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukarma1/mukarma1/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukarma1/mukarma1/output/dist/github-contribution-grid-snake-pink.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mukarma1/mukarma1/output/dist/github-contribution-grid-snake-pink.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
