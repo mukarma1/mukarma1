@@ -6,16 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-f472b6?style=for-the-badge&logo=googlejobs&logoColor=white" alt="Open to Work"/>
-
 <br/><br/>
-
 
 </div>
 
-<br/>
 
 ## 🧭 About Me
 
@@ -84,54 +78,6 @@ Currently exploring **Node.js/Express backends**, **MongoDB & MySQL**, and integ
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukarma1&custom_title=Contribution%20Activity&bg_color=1a1721&color=f472b6&line=c93b7c&point=ffffff&area=true&area_color=f7c6de&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔹 NextGen CareerForge
-
-<a href="https://github.com/mukarma1/nextgen-careerforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukarma1&repo=nextgen-careerforge&theme=tokyonight&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc" alt="NextGen CareerForge"/>
-</a>
-
-AI-powered Career Development Platform featuring Resume Analysis, DSA Tracking, Interview Preparation, Career Guidance, and Job Preparation tools.
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukarma1/nextgen-careerforge)
-
-<br/><br/>
-
-### 🔹 Alumni Management System
-
-<a href="https://github.com/mukarma1/alumni-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukarma1&repo=alumni-management-system&theme=tokyonight&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc" alt="Alumni Management System"/>
-</a>
-
-Modern Alumni Management System with alumni registration, profile management, dashboard analytics, reports, and a responsive interface.
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukarma1/alumni-management-system)
 
 </div>
 
