@@ -1,19 +1,16 @@
-<p align="center">
-</p>
-
-<!-- Clean Typing Banner -->
-<p align="center">
-  <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Bilal+Rafique;Full-Stack+Developer;AI+%26+ML+Engineer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
-  </a>
-</p>
-
-<!-- Minimalistic Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation" />
-</p>
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:f472b6&height=200&section=header&text=Mukarma%20Rehman&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://github.com/mukarma1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+</div>
 ## 🧭 About Me
 
 <div align="center">
