@@ -11,6 +11,18 @@
 <br/><br/>
 
 </div>
+<p align="center">
+</p>
+<!-- Clean Typing Banner -->
+<p align="center">
+  <a href="https://github.com/mukarma1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Mukarma+Rehman;Backend+Developer;Node.js+%26+Express+Enthusiast;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
+  </a>
+</p>
+<!-- Minimalistic Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="480" alt="Coding animation" />
+</p>
 ## 🧭 About Me
 
 <div align="center">
