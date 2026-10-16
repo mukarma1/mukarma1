@@ -132,19 +132,6 @@ I like building systems where **AI does the heavy lifting** and a clean backend 
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukarma1/mukarma1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukarma1/mukarma1/output/github-contribution-grid-snake-pink.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mukarma1/mukarma1/output/github-contribution-grid-snake-pink.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 ## 👾 Pacman Contribution Graph
 
