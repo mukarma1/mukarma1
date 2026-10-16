@@ -10,7 +10,7 @@
 
 </div>
 
-## 🧭 About Me
+## 🧬About Me
 
 I'm a **BS Computer Science** student from Pakistan 🇵🇰, focused on becoming a **backend developer**. I enjoy building full-stack and **AI-powered systems** that combine clean **REST APIs**, solid **database design** and modern **React** interfaces.
 
@@ -18,11 +18,11 @@ I'm a **BS Computer Science** student from Pakistan 🇵🇰, focused on becomin
 I'm exploring **Node.js/Express** backends with **MongoDB** and **MySQL**, and adding AI features using the **Google Gemini API**, **YOLOv8**, **EasyOCR** and **Hugging Face** models.
 
 **What drives me:**
-Always learning, always shipping something new. 🚀
+Always learning, always shipping something new.
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚙️Tech Stack
 
 <div align="center">
 
