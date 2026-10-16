@@ -14,9 +14,20 @@
 
 <div align="center">
 
-I'm a **BS Computer Science** student from Pakistan, currently sharpening my skills as a backend developer. I enjoy building full-stack and **AI-powered systems**, combining clean **REST APIs**, solid **database design**, modern **React** interfaces and **computer vision / machine learning** pipelines into products that actually work.
+**BS Computer Science student from Pakistan 🇵🇰 | Aspiring Backend Developer**
 
-Currently exploring **Node.js/Express backends**, **MongoDB & MySQL**, and integrating AI capabilities like the **Google Gemini API**, **YOLOv8**, **EasyOCR** and **Hugging Face** models into real projects. Always learning, always shipping something new.
+*Clean REST APIs • Solid database design • AI-powered systems*
+
+<br/>
+
+| Category | Details |
+|:--|:--|
+| 💻 **Focus** | Backend development with Node.js and Express |
+| 🗄️ **Databases** | MongoDB, MySQL |
+| 🎨 **Frontend** | React, Tailwind CSS |
+| 👁️ **Computer Vision** | OpenCV, YOLOv8, EasyOCR |
+| 🤖 **AI / ML** | PyTorch, Hugging Face, Google Gemini API |
+| 🚀 **Currently** | Building full-stack and AI-powered projects |
 
 </div>
 
