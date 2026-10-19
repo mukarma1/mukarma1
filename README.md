@@ -111,13 +111,6 @@ I like building systems where **AI does the heavy lifting** and a clean backend 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukarma1&custom_title=Contribution%20Activity&bg_color=1a1721&color=f472b6&line=c93b7c&point=ffffff&area=true&area_color=f7c6de&hide_border=true" alt="Contribution Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukarma1&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukarma1&theme=radical" />
-
 </div>
 
 <br/>
