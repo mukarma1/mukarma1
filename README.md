@@ -12,7 +12,7 @@
 
 ## 🧬About Me
 
-I'm a **BS Computer Science** student from Pakistan 🇵🇰, focused on becoming a **backend developer**. I enjoy building full-stack and **AI-powered systems** that combine clean **REST APIs**, solid **database design** and modern **React** interfaces.
+I'm a **BS Computer Science**, focused on becoming a **backend developer**. I enjoy building full-stack and **AI-powered systems** that combine clean **REST APIs**, solid **database design** and modern **React** interfaces.
 
 **What I'm working with right now:**
 I'm exploring **Node.js/Express** backends with **MongoDB** and **MySQL**, and adding AI features using the **Google Gemini API**, **YOLOv8**, **EasyOCR** and **Hugging Face** models.
